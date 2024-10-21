@@ -1,4 +1,3 @@
-class App {
+class app {
   constructor() {}
-  allGetFunctions() {}
 }
