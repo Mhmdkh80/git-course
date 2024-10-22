@@ -8,3 +8,6 @@ console.log("just pass");
 // another function
 
 const username = "reza";
+
+
+console.log("just pass");
