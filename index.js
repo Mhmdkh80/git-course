@@ -9,11 +9,11 @@ console.log("just pass");
 
 const username = "reza";
 
-
 console.log("just pass");
 
-class Folan{
-    constructor(){
-        
-    }
+// alert
+alert("new directory");
+
+if (1 > true) {
+  console.log("true");
 }
