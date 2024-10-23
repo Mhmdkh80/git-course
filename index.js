@@ -17,3 +17,7 @@ alert("new directory");
 if (1 > true) {
   console.log("true");
 }
+
+class Folan {
+  constructor() {}
+}
