@@ -11,3 +11,9 @@ const username = "reza";
 
 
 console.log("just pass");
+
+class Folan{
+    constructor(){
+        
+    }
+}
